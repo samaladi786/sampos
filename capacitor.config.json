@@ -1,6 +1,0 @@
-{
-  "appId": "com.pos.server",
-  "appName": "POS Server",
-  "webDir": ".",
-  "bundledWebRuntime": false
-}
